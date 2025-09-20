@@ -2,7 +2,7 @@
 Implementation of 8-Puzzle Problem using Breadth First Search (BFS) and Depth First Search (DFS) algorithms for AI Lab Assignment 1. Includes Python code, detailed explanation, and comparison of BFS vs DFS.
 
 
-# 🎯 AI Lab Assignment 1: 8-Puzzle Problem using BFS & DFS
+# 🎯 AI: 8-Puzzle Problem using BFS & DFS
 
 **Student:** Saket Kumar  
 **Institute:** IIT Patna  
