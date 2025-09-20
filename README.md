@@ -50,7 +50,7 @@ The project demonstrates how BFS and DFS explore the state space differently, co
 ---
 
 ## 🧩 How to Use
-1. Open the notebook `2312res560.ipynb` in **Google Colab** or **Jupyter Notebook**.  
+1. Open the notebook `saketkumar.ipynb` in **Google Colab** or **Jupyter Notebook**.  
 2. Run all cells sequentially.  
 3. Observe the **random start grid**, **target grid**, and BFS/DFS step counts.  
 4. Read the detailed markdown explanations for a clear understanding of the algorithms.  
