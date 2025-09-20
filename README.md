@@ -69,7 +69,7 @@ The project demonstrates how BFS and DFS explore the state space differently, co
 
 AI-Lab-Assignment1-DFS-BFS/
 │
-├── 2312res560.ipynb       # Main Colab notebook with code and explanations
+├── saketkumar.ipynb       # Main Colab notebook with code and explanations
 ├── README.md              # Project overview, instructions, and comparisons
 
 ```
